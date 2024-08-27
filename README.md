@@ -11,3 +11,6 @@ KPIs and Visualization: Calculates and visualizes key performance indicators suc
 Prospect Stage Analysis: Unearths insights into the Prospect stage, showcasing the stage with the highest win rate.
 Referral Lead Source Insights: Highlights the "Referral" lead source as having the most significant conversion rate.
 
+![Download the Excel file](Sales_Pipeline.xlsx)
+
+
